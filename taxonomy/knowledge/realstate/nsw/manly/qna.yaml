@@ -99,6 +99,6 @@ document_outline: |
   Information about the properties for sale in Manly NSW.
 document:
   repo: https://github.com/nima-moghadam-customerforge/realstate
-  commit: 5be0393638d3e58a4a1576a6d6681e1b9f2f7dde
+  commit: bcc4e56e594f8dbfa882b2d2e9b46f924544cd43
   patterns:
     - manly.md
